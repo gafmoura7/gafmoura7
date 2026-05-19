@@ -48,17 +48,6 @@ Estudante de Desenvolvimento de Software Multiplataforma (DSM) na FATEC
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact)
-
-</div>
 
 ---
 
